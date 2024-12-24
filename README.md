@@ -1,3 +1,5 @@
+Need more improvements
+
 # E-book Companion with Grok Vision
 
 This application helps you analyze and recall plot points from your e-books using xAI's vision model. Upload pages from your books and ask questions about the content!
